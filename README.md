@@ -2,6 +2,8 @@
 
 Eine Einführung in den Einsatz Speicherprogrammierbarer Steuerungen und das Programmpaket CODESYS.
 
+Hier finden Sie einige Projekte, die im Buch beschrieben sind. Zum Teil sind Simulatoren dabei, so dass das System nach dem Start selbstständig arbeitet.
+
 
 Grundkurs der Steuerungstechnik mit CODESYS
 -------------------------------------------
