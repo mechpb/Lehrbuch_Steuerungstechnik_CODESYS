@@ -4,6 +4,7 @@ Eine Einführung in den Einsatz Speicherprogrammierbarer Steuerungen und das Pro
 
 Hier finden Sie einige Projekte, die im Buch beschrieben sind. Zum Teil sind Simulatoren dabei, so dass das System nach dem Start selbstständig arbeitet.
 
+Dateien aus der dazugehörigen Aufgabensammlung unter  https://github.com/mechpb/Aufgaben_CODESYS/blob/main/README.md 
 
 Grundkurs der Steuerungstechnik mit CODESYS
 -------------------------------------------
